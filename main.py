@@ -143,9 +143,6 @@ def get_int(min, max):
             print("Ошибка! Введите целое число.")
 
 
-import os
-import time
-
 
 def print_statistics(filename, start_time, end_time,pause_duration, program_filename):
     # Открываем файл для записи статистики
